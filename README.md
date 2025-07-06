@@ -1,6 +1,6 @@
 Hi!, I’m @hansinireddykolan 
 I’m interested in the topics: bioinformatics, genetics, and developing health-related software projects.
-I’m looking to collaborate on healthcare prediction software and investigatory projects in microbiology.
+I’m looking to collaborate on healthcare prediction software and investigatory projects in genetics.
 
 Feel free to reach out here or via email at
 Email: hansinistudy@gmail.com
